@@ -1,1 +1,3 @@
-console.log('hello aoc 2022');
+console.log('Hello AOC 2022');
+
+import './d1';
